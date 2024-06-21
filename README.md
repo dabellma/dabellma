@@ -28,6 +28,9 @@
 
 ## Frameworks, Languages
 
+PyTorch LogoTensorflow LogoPython LogoJava LogoHadoop LogoSpark LogoC++ LogoReact LogoAzure Logo
+
+
 (coming soon)
 
 
