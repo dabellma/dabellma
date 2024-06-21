@@ -28,8 +28,9 @@
 
 ## Frameworks, Languages
 
-[![Example Image](https://i.imgur.com/example.png)](https://www.example.com)
-[![cannot load image](image_url)]([https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg](https://hadoop.apache.org/))
+
+[![Example Image](https://banner2.cleanpng.com/20190612/gzb/kisspng-apache-hadoop-hadoop-distributed-filesystem-big-da-5d01a58e1eb596.6566548215603890061258.jpg)](https://hadoop.apache.org/)
+
 
 
 (coming soon)
