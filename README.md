@@ -6,7 +6,7 @@
 
 ## Projects
 
-(coming soon)
+(coming soon, see repositories)
 
 
 ## Valuable Coursework
@@ -28,9 +28,8 @@
 
 ## Frameworks, Languages
 
-- Kafka
-![image](https://github.com/dabellma/dabellma/assets/74687131/d641217b-3702-4186-a928-446f224dbbec)
-- Hadoop
-![image](https://github.com/dabellma/dabellma/assets/74687131/9688bb86-377d-42e1-b15e-f617ad50ca7b)
+(coming soon)
+![image](https://kafka.apache.org/)
+![image](https://hadoop.apache.org/)
 
 
