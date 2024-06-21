@@ -29,7 +29,6 @@
 ## Frameworks, Languages
 
 (coming soon)
-![image](https://kafka.apache.org/)
-![image](https://hadoop.apache.org/)
+
 
 
