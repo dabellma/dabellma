@@ -11,17 +11,17 @@
 
 ## Valuable Coursework
 
-Distributed Systems
-Big Data
-Natural Language Processing
-Advanced Networking
-Database Systems
-Machine Learning
-Software Product and Process Evaluation
-Fault-Tolerant Computing
-Quantum Mechanics and Statistics
-Thermodynamics and Statistical Mechanics
-Data Structures and Algorithms
-Discrete Mathematics
-Introduction to Artificial Intelligence
-Introduction to Applied Statistical Methods
+- Distributed Systems
+- Big Data
+- Natural Language Processing
+- Advanced Networking
+- Database Systems
+- Machine Learning
+- Software Product and Process Evaluation
+- Fault-Tolerant Computing
+- Quantum Mechanics and Statistics
+- Thermodynamics and Statistical Mechanics
+- Data Structures and Algorithms
+- Discrete Mathematics
+- Introduction to Artificial Intelligence
+- Introduction to Applied Statistical Methods
