@@ -30,6 +30,7 @@
 
 
 [![Example Image](https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg)](https://hadoop.apache.org/)
+[![Example Image](https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg)](https://kafka.apache.org/)
 
 
 
