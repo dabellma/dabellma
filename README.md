@@ -28,7 +28,7 @@
 
 ## Frameworks, Languages
 
-PyTorch LogoTensorflow LogoPython LogoJava LogoHadoop LogoSpark LogoC++ LogoReact LogoAzure Logo
+[![cannot load image](image_url)]([https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg](https://hadoop.apache.org/))
 
 
 (coming soon)
