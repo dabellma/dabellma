@@ -25,3 +25,7 @@
 - Discrete Mathematics
 - Introduction to Artificial Intelligence
 - Introduction to Applied Statistical Methods
+
+## Frameworks, Languages
+
+![image](https://github.com/dabellma/dabellma/assets/74687131/257150d0-4379-4a2e-9248-0dba4b9f84d9)
