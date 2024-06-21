@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there, I'm Markus Dabell 👋
 
-<!--
-**dabellma/dabellma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently finishing my Master's in Computer Science through Colorado State University.
+- 🌱 I'm passionate about backend and platform development, devops, and distributed systems. 
+- 🗺️ I'm based out of Salt Lake City, Utah.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(coming soon)
+
+
+## Valuable Coursework
+
+Distributed Systems
+Big Data
+Natural Language Processing
+Advanced Networking
+Database Systems
+Machine Learning
+Software Product and Process Evaluation
+Fault-Tolerant Computing
+Quantum Mechanics and Statistics
+Thermodynamics and Statistical Mechanics
+Data Structures and Algorithms
+Discrete Mathematics
+Introduction to Artificial Intelligence
+Introduction to Applied Statistical Methods
