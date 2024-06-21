@@ -28,4 +28,9 @@
 
 ## Frameworks, Languages
 
-![image](https://github.com/dabellma/dabellma/assets/74687131/257150d0-4379-4a2e-9248-0dba4b9f84d9)
+- Kafka
+![image](https://github.com/dabellma/dabellma/assets/74687131/d641217b-3702-4186-a928-446f224dbbec)
+- Hadoop
+![image](https://github.com/dabellma/dabellma/assets/74687131/9688bb86-377d-42e1-b15e-f617ad50ca7b)
+
+
