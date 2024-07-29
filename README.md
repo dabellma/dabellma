@@ -7,7 +7,7 @@
 
 ## Projects
 
-# Machine Learning
+### Machine Learning
 
 [Predicting rainfall with neural networks using distributed pytorch](https://github.com/dabellma/Pytorch-Predicting-Brazilian-Rainfall-With-Neural-Networks)
 [Facial recognition, contrasting convolutional neural networks and support vector machines](https://github.com/dabellma/Convolutional-Neural-Network-Facial-Recognition-Project)
@@ -18,12 +18,12 @@
 [Part of speech tagging with structured perceptrons](https://github.com/dabellma/Structured-Perceptron-for-Part-of-Speech-Tagging-NLP)
 
 
-# Big Data Analytics
+### Big Data Analytics
 
 [Finding trending topics through counting methods with Apache Storm and formerly Twitter's API](https://github.com/dabellma/Apache-Storm-Twitter-Feed-Tweet-Counting-In-Java)
 [Citation graph of physics papers with millions of links using Apache Hadoop and Spark](https://github.com/dabellma/Apache-Spark-Node-And-Edge-Citation-Graph-Count-Using-Scala)
 
-# Distributed Systems
+### Distributed Systems
 (coming soon, see repositories)
 
 ## Valuable Coursework
