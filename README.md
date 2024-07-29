@@ -23,7 +23,7 @@
 - [Citation graph of physics papers with millions of links using Apache Hadoop and Spark](https://github.com/dabellma/Apache-Spark-Node-And-Edge-Citation-Graph-Count-Using-Scala)
 
 ### Distributed Systems
-(coming soon, see repositories)
+(coming soon)
 
 ## Valuable Coursework
 
