@@ -4,6 +4,7 @@
 - 🌱 I'm passionate about backend and platform development, devops, and distributed systems. 
 - 🗺️ I live in Salt Lake City, Utah near most of my immediate and extended family.
 - ⛷️ My hobbies include skiing, pickleball, rock climbing, drums, and traveling.
+- [LinkedIn](https://www.linkedin.com/in/markus-dabell-313669246/)
 
 ## Projects
 
