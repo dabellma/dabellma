@@ -3,7 +3,7 @@
 - 🔭 I’m currently finishing my Master's in Computer Science through Colorado State University.
 - 🌱 I'm passionate about backend and platform development, devops, and distributed systems. 
 - 🗺️ I live in Salt Lake City, Utah near most of my immediate and extended family.
-- ⛷️ My hobbies include skiing, pickleball, rock climbing, drums, and traveling (profile picture is Canyonlands National Park).
+- ⛷️ My hobbies include skiing, pickleball, rock climbing, drums, and traveling (profile picture was taken in Canyonlands National Park).
 
 ## Projects
 
