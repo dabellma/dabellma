@@ -9,19 +9,18 @@
 
 ### Machine Learning
 
-[Predicting rainfall with neural networks using distributed pytorch](https://github.com/dabellma/Pytorch-Predicting-Brazilian-Rainfall-With-Neural-Networks)
-[Facial recognition, contrasting convolutional neural networks and support vector machines](https://github.com/dabellma/Convolutional-Neural-Network-Facial-Recognition-Project)
-[Detecting perception differences among various NLP neural network classifier models](https://github.com/dabellma/Perception-Differences-Among-NLP-Models)
-[Movie review classifier via sentiment analysis with logistic regression](https://github.com/dabellma/Logistic-Regression-Movie-Review-Classifier/blob/main/logistic_regression.py)
-[Comparing word similarities with distributional semantics and word2vec](https://github.com/dabellma/Distributional-Semantics-And-Word2Vec)
-[Predicting grammatical sentence structure based on word dependencies](https://github.com/dabellma/Neural-Transition-Based-Dependency-Parsing)
-[Part of speech tagging with structured perceptrons](https://github.com/dabellma/Structured-Perceptron-for-Part-of-Speech-Tagging-NLP)
-
+- [Predicting rainfall with neural networks using distributed pytorch](https://github.com/dabellma/Pytorch-Predicting-Brazilian-Rainfall-With-Neural-Networks)
+- [Facial recognition, contrasting convolutional neural networks and support vector machines](https://github.com/dabellma/Convolutional-Neural-Network-Facial-Recognition-Project)
+- [Detecting perception differences among various NLP neural network classifier models](https://github.com/dabellma/Perception-Differences-Among-NLP-Models)
+- [Movie review classifier via sentiment analysis with logistic regression](https://github.com/dabellma/Logistic-Regression-Movie-Review-Classifier/blob/main/logistic_regression.py)
+- [Comparing word similarities with distributional semantics and word2vec](https://github.com/dabellma/Distributional-Semantics-And-Word2Vec)
+- [Predicting grammatical sentence structure based on word dependencies](https://github.com/dabellma/Neural-Transition-Based-Dependency-Parsing)
+- [Part of speech tagging with structured perceptrons](https://github.com/dabellma/Structured-Perceptron-for-Part-of-Speech-Tagging-NLP)
 
 ### Big Data Analytics
 
-[Finding trending topics through counting methods with Apache Storm and formerly Twitter's API](https://github.com/dabellma/Apache-Storm-Twitter-Feed-Tweet-Counting-In-Java)
-[Citation graph of physics papers with millions of links using Apache Hadoop and Spark](https://github.com/dabellma/Apache-Spark-Node-And-Edge-Citation-Graph-Count-Using-Scala)
+- [Finding trending topics through counting methods with Apache Storm and formerly Twitter's API](https://github.com/dabellma/Apache-Storm-Twitter-Feed-Tweet-Counting-In-Java)
+- [Citation graph of physics papers with millions of links using Apache Hadoop and Spark](https://github.com/dabellma/Apache-Spark-Node-And-Edge-Citation-Graph-Count-Using-Scala)
 
 ### Distributed Systems
 (coming soon, see repositories)
