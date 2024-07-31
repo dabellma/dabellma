@@ -28,7 +28,7 @@
 - [Routing network packets in a distributed system with Dijkstra's shortest path algorithm](https://github.com/dabellma/Dijkstra-Shortest-Path-Distributed-Overlay)
 - [Distributed load balancing using thread pools to simulate cryptocurrency mining](https://github.com/dabellma/Distributed-Load-Balancing-With-Thread-Pools)
 - [Chord P2P system with support of up to 4 billion nodes](https://github.com/dabellma/Chord-P2P-System-For-File-Storage/tree/main)
-- [Distributed, Replicated, Fault-Tolerant File System](https://github.com/dabellma/Distributed-Replicated-Fault-Tolerant-File-System/settings) [(Similar to Google's File System)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+- [Distributed, Replicated, Fault-Tolerant File System](https://github.com/dabellma/Distributed-Replicated-Fault-Tolerant-File-System) [(Similar to Google's File System)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 
 
 ## Valuable Coursework
