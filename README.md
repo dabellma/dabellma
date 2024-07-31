@@ -25,6 +25,7 @@
 ### Distributed Systems
 
 - [Routing network packets in a distributed system with Dijkstra's shortest path algorithm](https://github.com/dabellma/Dijkstra-Shortest-Path-Distributed-Overlay)
+- [Distributed load balancing using thread pools to simulate cryptocurrency mining](https://github.com/dabellma/Distributed-Load-Balancing-With-Thread-Pools)
 
 
 ## Valuable Coursework
