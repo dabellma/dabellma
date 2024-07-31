@@ -12,6 +12,7 @@
 - [Predicting rainfall with neural networks using distributed pytorch](https://github.com/dabellma/Pytorch-Predicting-Brazilian-Rainfall-With-Neural-Networks)
 - [Facial recognition, contrasting convolutional neural networks and support vector machines](https://github.com/dabellma/Convolutional-Neural-Network-Facial-Recognition-Project)
 - [Detecting perception differences among various NLP neural network classifier models](https://github.com/dabellma/Perception-Differences-Among-NLP-Models)
+- [Water salinity prediction in seawater](https://github.com/dabellma/Salinity-Prediction-In-Seawater)
 - [Movie review classifier via sentiment analysis with logistic regression](https://github.com/dabellma/Logistic-Regression-Movie-Review-Classifier/blob/main/logistic_regression.py)
 - [Comparing word similarities with distributional semantics and word2vec](https://github.com/dabellma/Distributional-Semantics-And-Word2Vec)
 - [Predicting grammatical sentence structure based on word dependencies](https://github.com/dabellma/Neural-Transition-Based-Dependency-Parsing)
