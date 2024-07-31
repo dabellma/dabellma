@@ -7,11 +7,18 @@
 
 ## Projects
 
+### Distributed Systems
+
+- [Distributed, Replicated, Fault-Tolerant File System](https://github.com/dabellma/Distributed-Replicated-Fault-Tolerant-File-System) [(Similar to Google's File System)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
+- [Distributed load balancing using thread pools to simulate cryptocurrency mining](https://github.com/dabellma/Distributed-Load-Balancing-With-Thread-Pools)
+- [Chord P2P system with support of up to 4 billion nodes](https://github.com/dabellma/Chord-P2P-System-For-File-Storage/tree/main)
+- [Routing network packets in a distributed system with Dijkstra's shortest path algorithm](https://github.com/dabellma/Dijkstra-Shortest-Path-Distributed-Overlay)
+
 ### Machine Learning
 
 - [Predicting rainfall with neural networks using distributed PyTorch](https://github.com/dabellma/Pytorch-Predicting-Brazilian-Rainfall-With-Neural-Networks)
-- [Facial recognition, contrasting convolutional neural networks and support vector machines](https://github.com/dabellma/Convolutional-Neural-Network-Facial-Recognition-Project)
 - [Detecting perception differences among various NLP neural network classifier models](https://github.com/dabellma/Perception-Differences-Among-NLP-Models)
+- [Facial recognition, contrasting convolutional neural networks and support vector machines](https://github.com/dabellma/Convolutional-Neural-Network-Facial-Recognition-Project)
 - [Water salinity prediction in seawater with distributed PyTorch](https://github.com/dabellma/Salinity-Prediction-In-Seawater)
 - [Movie review classifier via sentiment analysis with logistic regression](https://github.com/dabellma/Logistic-Regression-Movie-Review-Classifier/blob/main/logistic_regression.py)
 - [Comparing word similarities with distributional semantics and word2vec](https://github.com/dabellma/Distributional-Semantics-And-Word2Vec)
@@ -23,15 +30,10 @@
 - [Finding trending topics through counting methods with Apache Storm and formerly Twitter's API](https://github.com/dabellma/Apache-Storm-Twitter-Feed-Tweet-Counting-In-Java)
 - [Citation graph of physics papers with millions of links using Apache Hadoop and Spark](https://github.com/dabellma/Apache-Spark-Node-And-Edge-Citation-Graph-Count-Using-Scala)
 
-### Distributed Systems
-
-- [Routing network packets in a distributed system with Dijkstra's shortest path algorithm](https://github.com/dabellma/Dijkstra-Shortest-Path-Distributed-Overlay)
-- [Distributed load balancing using thread pools to simulate cryptocurrency mining](https://github.com/dabellma/Distributed-Load-Balancing-With-Thread-Pools)
-- [Chord P2P system with support of up to 4 billion nodes](https://github.com/dabellma/Chord-P2P-System-For-File-Storage/tree/main)
-- [Distributed, Replicated, Fault-Tolerant File System](https://github.com/dabellma/Distributed-Replicated-Fault-Tolerant-File-System) [(Similar to Google's File System)](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 
 
-## Valuable Coursework
+
+## Relevant Coursework
 
 - Distributed Systems
 - Big Data
