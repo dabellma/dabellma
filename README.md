@@ -23,7 +23,9 @@
 - [Citation graph of physics papers with millions of links using Apache Hadoop and Spark](https://github.com/dabellma/Apache-Spark-Node-And-Edge-Citation-Graph-Count-Using-Scala)
 
 ### Distributed Systems
-(coming soon)
+
+- [Routing network packets in a distributed system with Dijkstra's shortest path algorithm](https://github.com/dabellma/Dijkstra-Shortest-Path-Distributed-Overlay)
+
 
 ## Valuable Coursework
 
